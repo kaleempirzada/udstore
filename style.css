@@ -276,4 +276,8 @@ footer a { color: #60a5fa; }
     .hero h1 { font-size: 2.25rem; }
     .btn-container { flex-direction: column; }
     .gallery { grid-template-columns: 1fr; }
+    
+    /* Add these two new rules for the footer */
+    .footer-container { grid-template-columns: 1fr; }
+    .footer-info { text-align: center; }
 }
